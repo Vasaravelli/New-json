@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Governance and Oversight: Roles and Responsibilities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 24px;
+        }
+        .section {
+            display: flex;
+            justify-content: space-between;
+        }
+        .card {
+            width: 48%;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .card h2 {
+            font-size: 18px;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            margin: -20px -20px 10px;
+            border-radius: 8px 8px 0 0;
+        }
+        .governance {
+            background-color: #264e86;
+        }
+        .oversight {
+            background-color: #007bff;
+        }
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .content ul li {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .highlight {
+            background-color: #ffff66;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Governance and Oversight: Roles and Responsibilities</h1>
+    </div>
+    <div class="section">
+        <div class="card governance">
+            <h2>Governance</h2>
+            <div class="content">
+                <ul>
+                    <li>Routines
+                        <ul>
+                            <li>KRR/RCC</li>
+                            <li>Monthly QA/QC Forum
+                                <ul>
+                                    <li>Horizontal Performance (MBR)</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>IQS Admin
+                        <ul>
+                            <li>Help text</li>
+                            <li>Upload Management</li>
+                        </ul>
+                    </li>
+                    <li>Script Management and Development
+                        <ul>
+                            <li>GWIM</li>
+                            <li>GBGM</li>
+                        </ul>
+                    </li>
+                    <li>Testing Inventory
+                        <ul>
+                            <li>GWIM</li>
+                            <li>GBGM</li>
+                        </ul>
+                    </li>
+                    <li>M&I Trends and Analytics</li>
+                    <li><span class="highlight">Restriction and Closure Governance</span>
+                        <ul>
+                            <li>GBGM</li>
+                            <li><span class="highlight">Liaise GWIM Supervision (Follow Up)</span></li>
+                        </ul>
+                    </li>
+                    <li>LRR Support and decisioning</li>
+                    <li>Evidence of Sampling Adherence</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card oversight">
+            <h2>Oversight and Enablement</h2>
+            <div class="content">
+                <ul>
+                    <li>Regulatory Response for MRIA/MRA</li>
+                    <li>White Paper Approval/Closure Pack Approval</li>
+                    <li><span class="highlight">Population Management</span> (in partnership with data analytics)
+                        <ul>
+                            <li>GBGM</li>
+                            <li>GWIM</li>
+                        </ul>
+                    </li>
+                    <li>Independent Calibration
+                        <ul>
+                            <li>Materiality Decisioning (GBGM/GWIM)</li>
+                        </ul>
+                    </li>
+                    <li>Training</li>
+                    <li>Script Approval</li>
+                    <li><span class="highlight">Determination of in scope and out of scope</span>
+                        <ul>
+                            <li>GBGM</li>
+                            <li>GWIM</li>
+                        </ul>
+                    </li>
+                    <li>Sampling Methodology Determination</li>
+                    <li>LRR Support and decisioning</li>
+                    <li>ILQA Trends and Analytics</li>
+                    <li>Evidence of Sampling Adherence</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
